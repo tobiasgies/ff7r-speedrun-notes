@@ -19,4 +19,4 @@ jobs:
       with:
         node-version: 14.x
         cache: 'npm'
-    - run: npm deploy
+    - run: npm run deploy
